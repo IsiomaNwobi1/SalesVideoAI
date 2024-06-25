@@ -314,10 +314,9 @@ a:focus {
 
 .slider_section .detail-box h1 {
   font-size: 3rem;
-  font-weight: bold;
+  font-weight: bolder;
   text-transform: uppercase;
   margin-bottom: 5px;
-  margin-left: -4%;
   color: #fbfbfb;
 }
 
