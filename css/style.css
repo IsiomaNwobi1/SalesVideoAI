@@ -178,6 +178,7 @@ a:focus {
   padding-left: 25px;
 }
 
+
 .navbar-brand span {
   font-weight: bold;
   font-size: 24px;
@@ -312,11 +313,11 @@ a:focus {
 }
 
 .slider_section .detail-box h1 {
-  font-size: 3.3rem;
+  font-size: 3rem;
   font-weight: bold;
   text-transform: uppercase;
   margin-bottom: 5px;
-  margin-left: -9%;
+  margin-left: -4%;
   color: #fbfbfb;
 }
 
